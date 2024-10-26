@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1KFktXc3UdaGcN9T_jqjxjAeHmWNXfIOT" alt="Gambar" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1wmEs6isZl7i0hkKM-Hv_nAMhEPTpXFXf" alt="Gambar" width="600"/>
 
 # **FindIt**
 
